@@ -11,3 +11,8 @@ Based on:
 - Food
 - Energy
 - Occupation Median Wage
+- Health Insurance
+- Taxes
+- Net income
+
+Graph that neatly displays the two. 
