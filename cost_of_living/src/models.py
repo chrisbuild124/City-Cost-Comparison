@@ -3,7 +3,7 @@ class CityCost:
     Description: This is the data member for each city's monthly costs. 
     All are median. Note: Factor is assumed to be all other costs (transportation, discretionary, etc).
     """
-    def __init__(self, id, housing, food, energy, health, tax_bracket: List, factor=0.15):
+    def __init__(self, id, housing, food, energy, health, tax_bracket, factor=0.15):
         self._id = id
         self._housing = housing
         self._food = food
