@@ -14,8 +14,4 @@ Based on:
 - Taxes: https://api-ninjas.com/api/incometaxcalculator
 - Income: https://www.bls.gov/developers/api_python.htm#python1
 
-APIs:
-- Income: 
-- 
-
 Graph that neatly displays the two. 
