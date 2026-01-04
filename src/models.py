@@ -9,8 +9,16 @@ class CityCost:
         self._food = food
         self._energy = energy
         self._health = health
-        self._tax_bracket = tax_bracket 
+        self._tax_bracket = tax_bracket
         self._factor = factor
+
+    @property
+    def id(self):
+        return self._id
+    
+    @property
+    def get_tax_bracket(self):
+        return self._tax_bracket
 
 class IncomeByOccupation:
     """
